@@ -1,4 +1,4 @@
 dist: xenial
 language: node_js
 node_js: "node"
-script: yarn run eslint extension.js
+script: yarn run eslint map.js
